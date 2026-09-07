@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://fe-jadipetani.vercel.app">🌐 Live Demo</a> •
+  <a href="https://jadipetani.vercel.app/">🌐 Live Demo</a> •
   <a href="https://github.com/jadipetani/be-jadipetani">⚙️ Backend Repo</a> •
   <a href="https://github.com/jadipetani/fe-jadipetani">🎨 Frontend Repo</a>
 </p>
@@ -148,8 +148,8 @@ Aplikasi frontend aktif di `http://localhost:5173`.
 | **Browser** | Google Chrome 130+ / Firefox 131+ / Edge 130+ |
 | **Backend URL (Dev)** | `http://localhost:5000/api` |
 | **Frontend URL (Dev)** | `http://localhost:5173` |
-| **Backend URL (Prod)** | `https://be-jadipetani-production.up.railway.app/api` |
-| **Frontend URL (Prod)** | `https://fe-jadipetani.vercel.app` |
+| **Backend URL (Prod)** | `https://be-jadipetani-production.up.railway.app/docs` |
+| **Frontend URL (Prod)** | `https://jadipetani.vercel.app/` |
 | **Midtrans** | Sandbox Mode |
 | **Supabase** | Free Tier Project |
 
